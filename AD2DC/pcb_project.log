@@ -1,0 +1,21 @@
+Circuit: * C:\MyDrive\Y-Dyuthi\chipcraft\AD2DC\pcb_project.asc
+
+.OP point found by inspection.
+
+Date: Sun Mar 24 13:49:05 2024
+Total elapsed time: 0.151 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9284
+traniter = 9284
+tranpoints = 2369
+accept = 1768
+rejected = 601
+matrix size = 6
+fillins = 1
+solver = Normal
+Matrix Compiler1:      18 opcodes  0.2/[0.2]/0.2
+Matrix Compiler2: 442 bytes object code size  0.2/0.2/[0.2]
+
